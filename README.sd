@@ -1,5 +1,5 @@
 @@ -0,0 +1,56 @@
-# AWS Cross-Region Load Balancer Task List for Students
+# AWS Cross-Region Load Balancer Task List 
 
 This README outlines the tasks to set up a **Global Accelerator-based solution** to load balance traffic across **EC2 instances in two different VPCs and regions**.
 
