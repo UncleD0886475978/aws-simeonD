@@ -1,5 +1,5 @@
 @@ -0,0 +1,66 @@
-# AWS RDS Task List for Students
+# AWS RDS Task List 
 
 This README outlines tasks for working with **Amazon RDS**, including database creation, EC2 connectivity, and configuring read replicas.
 
